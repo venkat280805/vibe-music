@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+
+@import "tailwindcss";
+
+body {
+  background-color: #021526;
+  color: #fff;
+  font-family: "Bree Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* html,
+body {
+  overflow: hidden;
+} */
+
+* {
+  scroll-behavior: smooth;
+}
